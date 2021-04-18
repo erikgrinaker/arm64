@@ -19,3 +19,5 @@ qemu-system-aarch64 \
     -nographic \
     -drive if=pflash,format=raw,readonly,file=QEMU_EFI-pflash.raw \
     disk.img
+
+# Then run setup-alpine, halt, Alt-a x, start.sh
