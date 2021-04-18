@@ -1,0 +1,7 @@
+alpine/disk.img
+alpine/initramfs-lts
+alpine/vmlinuz-lts
+alpine/QEMU_EFI-pflash.raw
+
+*.o
+exit
